@@ -1,0 +1,8 @@
+D:\Trabajo\Ejercicios\Patrones\Adapter\bin\Debug\Adapter.exe.config
+D:\Trabajo\Ejercicios\Patrones\Adapter\bin\Debug\Adapter.exe
+D:\Trabajo\Ejercicios\Patrones\Adapter\bin\Debug\Adapter.pdb
+D:\Trabajo\Ejercicios\Patrones\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Patrones\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Patrones\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Patrones\Adapter\obj\Debug\Adapter.exe
+D:\Trabajo\Ejercicios\Patrones\Adapter\obj\Debug\Adapter.pdb
