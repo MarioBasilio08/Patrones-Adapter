@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "adapter", "adapter", "{C919E2E6-B0B4-4187-8673-C78A6957EBC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{491D2405-A009-4871-915D-2A0FC7130996}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract-Factory", "Abstract-Factory", "{DDE68BBB-26ED-4CF7-B682-173411FA64C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{A4CAE67F-1CE4-4D79-9232-457173CA49A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4CAE67F-1CE4-4D79-9232-457173CA49A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4CAE67F-1CE4-4D79-9232-457173CA49A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491D2405-A009-4871-915D-2A0FC7130996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491D2405-A009-4871-915D-2A0FC7130996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491D2405-A009-4871-915D-2A0FC7130996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491D2405-A009-4871-915D-2A0FC7130996}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A4CAE67F-1CE4-4D79-9232-457173CA49A0} = {C919E2E6-B0B4-4187-8673-C78A6957EBC3}
+		{491D2405-A009-4871-915D-2A0FC7130996} = {DDE68BBB-26ED-4CF7-B682-173411FA64C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {39115915-5842-44F3-8449-F7112BA983F1}
